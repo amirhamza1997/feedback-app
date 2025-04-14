@@ -1,10 +1,10 @@
-# Bicimex - Product Feedback App
+#  Product Feedback App
 
 ![Design preview for the Product feedback app coding challenge](./preview.jpg)
 
 ## Introduction
 
-Welcome to Bicimex - a product feedback application challenge design preview! In this challenge, I was tasked with building a responsive web application that allows users to submit, view, update, and delete product feedback requests. Additionally, users should be able to interact with the feedback, such as upvoting, commenting, and filtering by category. My challenge was to replicate the provided design as closely as possible while ensuring functionality and performance.
+Welcome to  a product feedback application challenge design preview! In this challenge, I was tasked with building a responsive web application that allows users to submit, view, update, and delete product feedback requests. Additionally, users should be able to interact with the feedback, such as upvoting, commenting, and filtering by category. My challenge was to replicate the provided design as closely as possible while ensuring functionality and performance.
 
 ## Technologies Used
 
